@@ -1,0 +1,28 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Run Accounting System",
+            "type": "node",
+            "request": "launch",
+            "program": "${workspaceFolder}/src/accounting/index.js",
+            "console": "integratedTerminal",
+            "internalConsoleOptions": "neverOpen",
+            "skipFiles": [
+                "<node_internals>/**"
+            ]
+        },
+        {
+            "name": "Debug Accounting System",
+            "type": "node",
+            "request": "launch",
+            "program": "${workspaceFolder}/src/accounting/index.js",
+            "console": "integratedTerminal",
+            "internalConsoleOptions": "neverOpen",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "stopOnEntry": false
+        }
+    ]
+}
