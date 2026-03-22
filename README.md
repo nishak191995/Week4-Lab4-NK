@@ -1,35 +1,35 @@
-# Modernize your legacy code with GitHub Copilot
+<div align="center">
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
+# 🎉 Congratulations nishak191992! 🎉
 
-Hey nishak191992!
+<img src="https://octodex.github.com/images/welcometocat.png" height="200px" />
 
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
+### 🌟 You've successfully completed the exercise! 🌟
 
-Remember, it's self-paced so feel free to take a break! ☕️
+## 🚀 Share Your Success!
 
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/nishak191995/Week4-Lab4-NK/issues/1)
+**Show off your new skills and inspire others!**
 
-## Project Overview
+<a href="https://twitter.com/intent/tweet?text=I%20just%20completed%20the%20%22Modernize%20your%20legacy%20code%20with%20GitHub%20Copilot%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2Fnishak191995%2FWeek4-Lab4-NK%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Share%20on%20X-1da1f2?style=for-the-badge&logo=x&logoColor=white" alt="Share on X" />
+</a>
+<a href="https://bsky.app/intent/compose?text=I%20just%20completed%20the%20%22Modernize%20your%20legacy%20code%20with%20GitHub%20Copilot%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2Fnishak191995%2FWeek4-Lab4-NK%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Share%20on%20Bluesky-0085ff?style=for-the-badge&logo=bluesky&logoColor=white" alt="Share on Bluesky" />
+</a>
+<a href="https://www.linkedin.com/feed/?shareActive=true&text=I%20just%20completed%20the%20%22Modernize%20your%20legacy%20code%20with%20GitHub%20Copilot%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2Fnishak191995%2FWeek4-Lab4-NK%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Share%20on%20LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Share on LinkedIn" />
+</a>
 
-This repository contains a COBOL-based student account management system that has been modernized to Node.js.
+### 🎯 What's Next?
 
-### COBOL Version
-- **Location**: `src/cobol/`
-- **Files**: `main.cob`, `operations.cob`, `data.cob`
-- **Build**: `cobc -x src/cobol/main.cob src/cobol/operations.cob src/cobol/data.cob -o accountsystem`
-- **Run**: `./accountsystem`
+**Keep the momentum going!**
 
-### Node.js Version
-- **Location**: `src/accounting/`
-- **Main File**: `index.js`
-- **Run**: `cd src/accounting && npm start` or use VS Code debugger
-- **Launch Config**: `.vscode/launch.json` configured for debugging
+[![](https://img.shields.io/badge/Return%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/nishak191995/Week4-Lab4-NK/issues/1)
+[![GitHub Skills](https://img.shields.io/badge/Explore%20GitHub%20Skills-000000?style=for-the-badge&logo=github&logoColor=white)](https://learn.github.com/skills)
 
-### Documentation
-- **System Documentation**: `docs/README.md`
-- **Test Plan**: `docs/TESTPLAN.md`
-- **Data Flow Diagram**: Included in system documentation
+*There's no better way to learn than building things!* 🚀
+
+</div>
 
 ---
 
